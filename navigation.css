@@ -1,9 +1,15 @@
+/*:hover links styling*/
 .navbar a:hover {
 	font-family: helvetica;
 	color: pink;
+	background-color: black;
 }
 
+/*:active links styling*/
 .navbar a:active {
-	color: brown;
+	color: black;
+	background-color: yellow;
+	padding-right: 5px;
+	padding-left: 5px;
 
 }
