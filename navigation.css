@@ -1,0 +1,9 @@
+.navbar a:hover {
+	font-family: helvetica;
+	color: pink;
+}
+
+.navbar a:active {
+	color: brown;
+
+}
