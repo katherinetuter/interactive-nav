@@ -1,4 +1,4 @@
-Interactive navigation bar
+# Interactive navigation bar
 
 Setup
 

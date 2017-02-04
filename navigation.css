@@ -1,0 +1,21 @@
+/*styling for basic navbar*/
+.navbar {
+	font-size: 16px;
+}
+
+/*:hover links styling*/
+.navbar a:hover {
+	font-family: helvetica;
+	color: pink;
+	background-color: black;
+}
+
+/*:active links styling*/
+.navbar a:active {
+	color: black;
+	font-size: 21px;
+	background-color: yellow;
+	padding-right: 5px;
+	padding-left: 5px;
+
+}
